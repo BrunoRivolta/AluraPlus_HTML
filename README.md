@@ -43,6 +43,5 @@ https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=LvSYOVD1
 <a  href="https://devrivolta.blogspot.com/"><img src="https://images2.imgbox.com/1d/91/8Te7jWaR_o.png"></a>
 
   
-
 *******
 
