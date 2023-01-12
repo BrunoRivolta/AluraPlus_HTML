@@ -13,10 +13,10 @@ O objetivo é treinar a construção se um site respetando estilo e alinhamento 
 
 | 🪧 Vitrine Dev |     |
 | ------------- | --- |
-| ✨ Nome        | Projeto Site AluraBooks |
-| 🏷️ Tecnologias | HTML, CSS, JavaScript |
-| 🚀 URL Front-end | https://brunorivolta.github.io/SiteAluraBooks/ |
-| 🔥 Desafio     | https://github.com/BrunoRivolta/SiteAluraBooks |
+| ✨ Nome        | Projeto Site AluraPlus |
+| 🏷️ Tecnologias | HTML, CSS, JavaScript, Figma |
+| 🚀 URL Front-end | https://brunorivolta.github.io/AluraPlus_HTML |
+| 🔥 Desafio     | https://github.com/BrunoRivolta/AluraPlus_HTML |
 
 
 ***
@@ -25,6 +25,11 @@ O objetivo é treinar a construção se um site respetando estilo e alinhamento 
 
  - HTML
  - CSS
+
+
+## Acessando o site
+
+https://brunorivolta.github.io/AluraPlus_HTML/
 
 
 ## Desing
